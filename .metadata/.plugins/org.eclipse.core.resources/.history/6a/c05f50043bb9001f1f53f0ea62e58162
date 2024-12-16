@@ -1,0 +1,9 @@
+package ders_3;
+
+public class Uygulama {
+	public static void main(String[] args) {
+		
+		ListeYapisi liste = new ListeYapisi();
+		
+	}
+}

@@ -1,0 +1,18 @@
+package ders4;
+
+public class Uygulama {
+
+	public static void main(String[] args) {
+		
+		TekYonluListeYapisi tekYonList = new TekYonluListeYapisi();
+		tekYonList.basaEkle(10);
+		tekYonList.basaEkle(8);
+		tekYonList.basaEkle(6);
+		tekYonList.basaEkle(4);
+		tekYonList.sonaEkle(12);
+		
+		System.out.println(tekYonList.head.data);
+
+	}
+
+}

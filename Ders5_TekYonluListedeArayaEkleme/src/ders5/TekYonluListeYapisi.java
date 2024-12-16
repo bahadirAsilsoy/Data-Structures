@@ -38,7 +38,7 @@ public class TekYonluListeYapisi {
 	}
 	
 	void arayaEkle() {
-
+		// anlamadım.
 	}
 	
 	void yazdir() {
